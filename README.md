@@ -1,3 +1,4 @@
+This is the Paddle version code for paper [Efficient Device Scheduling with Multi-Job Federated Learning.](https://arxiv.org/abs/2112.05928)
 # MJFL-Simulation
 An implementation of some FL methods
 
